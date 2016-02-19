@@ -11,9 +11,11 @@ package com.DanielMena; /**
 
             Dinosaur t_rex = new Dinosaur();
             Dinosaur velociraptor = new Dinosaur();
+            Dinosaur dan_rex = new Dinosaur();
 
             t_rex.roar();
             velociraptor.roar();
+            dan_rex.roar();
         }
 
 
